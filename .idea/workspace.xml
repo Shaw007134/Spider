@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a29ba88-8496-485e-89b9-ac313038c11f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clearlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_try_request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_try_post.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_retrying.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phrasing_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/phrasing_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slave.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhilianzhaopin.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhilianzhaopin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhilianzhaopin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/zhilianzhaopin.txt" afterDir="false" />
-    </list>
+    <list default="true" id="9a29ba88-8496-485e-89b9-ac313038c11f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +12,7 @@
     <session id="1468871367">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -159,8 +146,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="336" />
-    <option name="y" value="51" />
+    <option name="x" value="-154" />
+    <option name="y" value="226" />
     <option name="width" value="1750" />
     <option name="height" value="1030" />
   </component>
@@ -334,15 +321,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="413" y="56" width="1400" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="-123" y="181" width="1400" height="824" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32658958" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32658958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
