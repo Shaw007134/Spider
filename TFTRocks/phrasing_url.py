@@ -6,7 +6,7 @@ headers = {
     "Referer": "",
 }
 @retry(stop_max_attempt_number=3)
-def phrasing_url(initial_url,ref):
+def phrasing_url(initial_url,ref): 
     headers['Referer'] = initial_url
     url = initial_url + str(ref)
     print("Phrasing url: {}".format(url))
@@ -16,4 +16,4 @@ def phrasing_url(initial_url,ref):
         html = etree.HTML(html_str)
     except:
         html = None
-    return html
+    return html  
